@@ -14,3 +14,8 @@ git remote and origin SSH_REPOs
 
     description de notre commit avec des informations sur l'evolution du projet
 ```
+
+## Création d'une branche
+
+    ```Bash
+    git checkout -b NOM_DE_LA_BRANCHE
